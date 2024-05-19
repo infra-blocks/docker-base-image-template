@@ -1,6 +1,6 @@
 services:
   base:
-    image: public.ecr.aws/infrastructure-blocks/docker-base-image-template:latest
+    image: public.ecr.aws/infra-blocks/docker-base-image-template:latest
     build:
       context: ../
       dockerfile: docker/base/Dockerfile

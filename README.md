@@ -1,6 +1,6 @@
 # docker-base-image-template
-[![Build Image](https://github.com/infrastructure-blocks/docker-base-image-template/actions/workflows/build-image.yml/badge.svg)](https://github.com/infrastructure-blocks/docker-base-image-template/actions/workflows/build-image.yml)
-[![Trigger Update From Template](https://github.com/infrastructure-blocks/docker-base-image-template/actions/workflows/trigger-update-from-template.yml/badge.svg)](https://github.com/infrastructure-blocks/docker-base-image-template/actions/workflows/trigger-update-from-template.yml)
+[![Build Image](https://github.com/infra-blocks/docker-base-image-template/actions/workflows/build-image.yml/badge.svg)](https://github.com/infra-blocks/docker-base-image-template/actions/workflows/build-image.yml)
+[![Trigger Update From Template](https://github.com/infra-blocks/docker-base-image-template/actions/workflows/trigger-update-from-template.yml/badge.svg)](https://github.com/infra-blocks/docker-base-image-template/actions/workflows/trigger-update-from-template.yml)
 
 This template repository is for repos that hold Docker base images. Those images are made to be built programmatically
 and on-demand. This is unlike application images, which should be rebuilt on every pull request.
